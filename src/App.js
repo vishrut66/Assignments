@@ -32,6 +32,8 @@ function App() {
     filterDataBySubject(subject);
   }, [subject]);
 
+  console.log("Developted by Vishrut.");
+
   return (
     <div className="App">
       <div className="title">IT - 6 Sem</div>
