@@ -100,16 +100,20 @@
   margin-bottom: 10px; /* Adjust margin as needed */
   margin-right: 10px;
 
-  height: 20px;
+  height: auto;
   border-radius: 3px;
-  padding-left: 6px;
-  padding-right: 6px;
-  font-size: 14px;
+  padding: 8px;
+  font-size: 15px;
   line-height: 120%;
-  color: rgba(255, 255, 255, 0.804);
+
   background: rgb(62, 102, 156);
 
   cursor: pointer;
+}
+
+.items li a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.804);
 }
 
 .box-item + .box-item {

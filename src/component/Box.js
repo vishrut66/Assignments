@@ -1,6 +1,8 @@
 import React from 'react'
 
-export default function Box() {
+export default function Box({ assignments, materials }) {
+
+
     return (
         <div className='box'>
 
@@ -9,15 +11,10 @@ export default function Box() {
                 <div className="box-item-title"> Assignments</div>
 
                 <div className='items'>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
 
+                    {assignments.length > 0 ? assignments.map(item => <li className='list-item' key={item.name} >
+                        <a href={item.link} target="_blank" rel="noopener noreferrer">{item.name}</a>
+                    </li>) : "It's Empty 🤯"}
 
                 </div>
             </div>
@@ -25,43 +22,10 @@ export default function Box() {
             <div className='box-item'>
                 <div className="box-item-title"> Other Materials</div>
                 <div className='items'>
-                    <li>Ass1</li>
-                    <li>Ass2</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
-                    <li className='list-item'>Ass1</li>
+
+                    {materials.length > 0 ? materials.map(item => <li className='list-item' key={item.name} >
+                        <a href={item.link} target="_blank" rel="noopener noreferrer">{item.name}</a>
+                    </li>) : "There is nothing here."}
 
                 </div>
             </div>

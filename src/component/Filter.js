@@ -1,16 +1,18 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-export default function Filter() {
+export default function Filter({ onChange }) {
 
-    const subjects = ["SE", "DS", "AI", "DMW", "IpR", "RSG"]
+    const subjects = ["AI", "DS", "SE", "DMW", "IPR", "RSG"]
+
+
 
     return (
         <div className='filter'>
 
             <label > Select the Subject </label>
 
-            <select name="subject" id="subject">
-                {subjects.map(item => <option value={item}>{item}</option>)}
+            <select name="subject" id="subject" onChange={(e) => onChange(e)}>
+                {subjects.map(item => <option value={item} key={item}>{item}</option>)}
             </select>
         </div>
     )
