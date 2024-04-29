@@ -69,6 +69,66 @@ const Materials = [
         name: "Study Material",
         link: "https://drive.google.com/file/d/170DxLz1ThWS0JNqb79ySjrUHCEtpqKOl/view?usp=sharing"
     },
+    {
+        subject: "AI",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/18f7R8y7gffrQul_tM7tfwu9ZctUrGHp4/view?usp=sharing"
+    },
+    {
+        subject: "AI",
+        name: "BMU - Syllabus",
+        link: "https://drive.google.com/file/d/1tSOnBEH8tjRgZQGFVf2EZy7vJ5HQSeaZ/view?usp=sharing"
+    },
+    {
+        subject: "DMW",
+        name: "BMU - Syllabus",
+        link: "https://drive.google.com/file/d/1CFViV6_DUQ6daMMxyxJvDFxAF4bDoYFS/view?usp=sharing"
+    },
+        {
+        subject: "DMW",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/1PfxEXdMKrvktzf71Y_IBLmzTOf2dVtI8/view?usp=sharing"
+    },
+        {
+        subject: "DMW",
+        name: "DEC 2018 - GTU paper",
+        link: "https://drive.google.com/file/d/1hJ_lh1mRsYOLkDOyUlbmg1lE71h951cV/view?usp=sharing"
+    },
+        {
+        subject: "DMW",
+        name: "MAY 2018 - GTU paper",
+        link: "https://drive.google.com/file/d/1Vuao_Q3_TgIT3hysCtjprzpN1ZAzyg82/view?usp=sharing"
+    },
+        {
+        subject: "DMW",
+        name: "WINTTER 2022 - GTU paper",
+        link: "https://drive.google.com/file/d/1oZ1ZMxyUlQ9R6PrKrkF6k5TdG-K4zvrH/view?usp=sharing"
+    },
+        {
+        subject: "DS",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/12cIa6RaFnYMwq9S4AY4y71lra5rbwRMC/view?usp=sharing"
+    },
+    {
+        subject: "DS",
+        name: "BMU - Syllabus",
+        link: "https://drive.google.com/file/d/1QdXTvoBANRo37cCrgoXaROzPTkUEJm5d/view?usp=sharing"
+    },
+    {
+        subject: "IPR",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/1yJ9qqUiMAKHCycFKvwSXChAaw_Gf_s0g/view?usp=sharing"
+    },
+        {
+        subject: "RSG",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/1ouWKOijQG2uPmWVpiN9UCfgk8gPtCH7E/view?usp=sharing"
+    },
+        {
+        subject: "SE",
+        name: "Chat-GPT MID Preparation",
+        link: "https://drive.google.com/file/d/1lOvTkMnIUDfTBGImVsVTFMb21JB907Mr/view?usp=sharing"
+    },
 ]
 
 
