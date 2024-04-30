@@ -11,6 +11,11 @@ const Assignments = [
     },
     {
         subject: "SE",
+        name: "Assignment 1",
+        link: "https://drive.google.com/file/d/1a0LhS0-Ntg-q-BNvNyLHem3yUSrY3RL6/view?usp=sharing"
+    },
+    {
+        subject: "SE",
         name: "Assignment 2",
         link: "https://drive.google.com/file/d/1DOj0TwlJD0cUMgIEYVst0nacloKWHAhm/view?usp=sharing"
     },
