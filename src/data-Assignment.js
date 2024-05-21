@@ -46,6 +46,16 @@ const Assignments = [
     },
     {
         subject: "IPR",
+        name: "Assignment 1",
+        link: "https://drive.google.com/file/d/1ZtJUlOKrHtXG_aGaRTbaj-QEfhHFdI9m/view?usp=sharing"
+    },
+    {
+        subject: "IPR",
+        name: "Assignment 2",
+        link: "https://drive.google.com/file/d/1bjJG3ipMOJiMeJDMd_14VJeVL_gDoIT9/view?usp=sharing"
+    },
+    {
+        subject: "IPR",
         name: "Assignment 3",
         link: "https://drive.google.com/file/d/1ifmptBYZElp47m9fd92PKSDrkwcK3MHh/view?usp=sharing"
     },
