@@ -52,7 +52,7 @@ const Assignments = [
     {
         subject: "IPR",
         name: "Assignment 2",
-        link: "https://drive.google.com/file/d/1bjJG3ipMOJiMeJDMd_14VJeVL_gDoIT9/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1JNqkJfo8Xw14W8sWWuBkql0ygNGObNEh/view?usp=drivesdk"
     },
     {
         subject: "IPR",
