@@ -45,6 +45,11 @@ const Assignments = [
         link: "https://drive.google.com/file/d/1FArGNrvzBdgqqfJCedP1QTc_O4FA9Ooz/view?usp=sharing"
     },
     {
+        subject: "DMW",
+        name: "Assignment 2",
+        link: "https://drive.google.com/file/d/1JQ0rTRBkaF19duxnLkTiOGxJZ2olwUTW/view?usp=drivesdk"
+    },
+    {
         subject: "IPR",
         name: "Assignment 1",
         link: "https://drive.google.com/file/d/1ZtJUlOKrHtXG_aGaRTbaj-QEfhHFdI9m/view?usp=sharing"
