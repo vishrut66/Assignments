@@ -69,6 +69,16 @@ const Assignments = [
         name: "Assignment 4",
         link: "https://drive.google.com/file/d/1KYOgyFtCe_u6df4T0g-6ZFH3_dBKyfhY/view?usp=sharing"
     },
+    {
+        subject: "RSG",
+        name: "Assignment 1",
+        link: "https://drive.google.com/file/d/1KkrT_bCOXuLKgRaPg-YSGeIY-7RhyjBk/view?usp=sharing"
+    },
+    {
+        subject: "RSG",
+        name: "Assignment 2",
+        link: "https://drive.google.com/file/d/1Km2rC9Naw2hKlijlqaQoKUGKsQfq0doZ/view?usp=sharing"
+    },
 ]
 
 
