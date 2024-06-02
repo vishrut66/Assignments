@@ -23,3 +23,14 @@
         name: "Assignment 6",
         link: "https://drive.google.com/file/d/1zre53_O6aSMqYoX944kuJDf-pspjXoIz/view?usp=sharing"
     },
+
+        {
+        subject: "RSG",
+        name: "Assignment 1",
+        link: "https://drive.google.com/file/d/1KkrT_bCOXuLKgRaPg-YSGeIY-7RhyjBk/view?usp=sharing"
+    },
+    {
+        subject: "RSG",
+        name: "Assignment 2",
+        link: "https://drive.google.com/file/d/1Km2rC9Naw2hKlijlqaQoKUGKsQfq0doZ/view?usp=sharing"
+    },
